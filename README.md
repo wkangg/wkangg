@@ -7,14 +7,12 @@ I've built Discord bots, iOS tweaks, browser extensions and small self-hosted to
 
 ### 🛠 Projects
 
-| | |
-|---|---|
-| **[link-shortener](https://github.com/wkangg/link-shortener)** | Fast, self-hosted link shortener with built-in analytics. One process, one SQLite file. |
-| **dumplingdata** | Discord bot for FRC alliance-score predictions, built on Nexus and Statbotics, with rendered scoreboards. |
-| **[SnapQuest](https://github.com/wkangg/SnapQuest)** | UofTHacks 12 project. |
-| **[quinton](https://github.com/wkangg/quinton)** | Rewrite of [triv](https://github.com/wkangg/triv), my general-purpose Discord bot, using discord.js v14 and slash commands. |
-| **[Freemote](https://github.com/wkangg/Freemote)** | iOS tweak that brings BTTV, FFZ and 7TV emotes to the Twitch app. My maintained fork of [gilesgc/Freemote](https://github.com/gilesgc/Freemote). |
-| **[TwitchAdBlock](https://github.com/wkangg/TwitchAdBlock)** | Ad blocker for the Twitch iOS app. My maintained fork of [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock). |
+- **[link-shortener](https://github.com/wkangg/link-shortener)** — Fast, self-hosted link shortener with built-in analytics. One process, one SQLite file.
+- **dumplingdata** — Discord bot for FRC alliance-score predictions, built on Nexus and Statbotics, with rendered scoreboards.
+- **[SnapQuest](https://github.com/wkangg/SnapQuest)** — UofTHacks 12 project.
+- **[quinton](https://github.com/wkangg/quinton)** — Rewrite of [triv](https://github.com/wkangg/triv), my general-purpose Discord bot, using discord.js v14 and slash commands.
+- **[Freemote](https://github.com/wkangg/Freemote)** — iOS tweak that brings BTTV, FFZ and 7TV emotes to the Twitch app. My maintained fork of [gilesgc/Freemote](https://github.com/gilesgc/Freemote).
+- **[TwitchAdBlock](https://github.com/wkangg/TwitchAdBlock)** — Ad blocker for the Twitch iOS app. My maintained fork of [level3tjg/TwitchAdBlock](https://github.com/level3tjg/TwitchAdBlock).
 
 ### 🧰 Languages & tools
 
