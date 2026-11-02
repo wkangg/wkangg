@@ -31,5 +31,5 @@ I've built Discord bots, iOS tweaks, browser extensions and small self-hosted to
 
 ### 📈 Stats
 
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=wkangg&show_icons=true&theme=dark&count_private=true&hide_border=true)
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=wkangg&langs_count=8&layout=compact&theme=dark&hide_border=true)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=wkangg&show_icons=true&include_all_commits=true&disable_animations=true&theme=dark_github&hide_border=true)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=wkangg&layout=compact&langs_count=8&disable_animations=true&theme=dark_github&hide_border=true)
